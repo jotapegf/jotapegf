@@ -1,5 +1,3 @@
-# jotapegf-profile
-
 # Olá! 👋
 
 Eu sou João Pedro Gonçalves Ferreira, estudante de Engenharia de Computação com ênfase em Engenharia de Software. Bem-vindo ao meu perfil do GitHub!
@@ -8,8 +6,8 @@ Eu sou João Pedro Gonçalves Ferreira, estudante de Engenharia de Computação 
 
 Atualmente estou focado no desenvolvimento de software e apaixonado por explorar novas tecnologias. Tenho experiência em várias linguagens de programação e tecnologias, incluindo:
 
-- Flutter
 - C
+- Flutter
 - Java
 - SQL
 - Unity
