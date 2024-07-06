@@ -1,22 +1,10 @@
-# Olá! 👋
+# About Me:
+I'm currently improving my Python skills<br>I'm an undergraduate computer engineering student at USP (University of São Paulo)<br> I enjoy discovering new technologies! You'll see the diversity in my projects :D
 
-Eu sou João Pedro Gonçalves Ferreira, estudante de Engenharia de Computação com ênfase em Engenharia de Software. Bem-vindo ao meu perfil do GitHub!
 
-## Sobre mim
-
-Atualmente estou focado no desenvolvimento de software e apaixonado por explorar novas tecnologias. Tenho experiência em várias linguagens de programação e tecnologias, incluindo:
-
-- C
-- Flutter
-- Java
-- SQL
-- Unity
-
-## Projetos
-
-Estou constantemente trabalhando em projetos pessoais e acadêmicos para aprimorar minhas habilidades e expandir meu conhecimento. Alguns dos projetos em que estou trabalhando ou já trabalhei incluem:
-
-- Aplicações móveis com Flutter
-- Desenvolvimento de jogos com Unity
-- Aplicações de banco de dados com SQL
-- Projetos em C e Java
+# Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+# GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=jotapegf&theme=noctis_minimus&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=jotapegf&theme=noctis_minimus&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=jotapegf&theme=noctis_minimus&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
