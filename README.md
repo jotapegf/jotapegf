@@ -1,5 +1,5 @@
 # About Me:
-I'm currently improving my Python skills<br>I'm an undergraduate computer engineering student at USP (University of São Paulo)<br> I enjoy discovering new technologies! You'll see the diversity in my projects :D
+I'm currently working with Flutter as a software engineer intern at Fottorama.<br>I'm an undergraduate computer engineering student at USP (University of São Paulo)<br> I enjoy discovering new technologies! You'll see the diversity in my projects :D
 
 
 # Tech Stack:
